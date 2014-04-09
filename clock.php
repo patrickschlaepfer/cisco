@@ -1,6 +1,6 @@
 <?
 Header("Content-type: text/xml");
-Header("Refresh: 1800");
+Header("Refresh: 60");
 //ADELAIDE, SA    
 $weatherZoneLocation="12495";
 
